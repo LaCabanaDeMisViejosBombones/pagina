@@ -210,7 +210,7 @@
 
         .about-image {
             flex: 1 1 300px;
-            background: url('Img/acerca_de_nosotros.jpg') no-repeat center center/cover;
+            background: url('Img/bombones.png') no-repeat center center/cover;
             height: 300px;
             border-radius: 15px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
